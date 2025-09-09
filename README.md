@@ -45,6 +45,3 @@ Các nội dung được thực hiện trong quá trình học tập và thực 
 
 ---
 
-
-
-## 📂 Cấu trúc thư mục
